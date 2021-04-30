@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="1" name="As a user" skipped="0" tests="1" time="9.76" timestamp="2021-04-29 06:26:34"><testcase name="Get user successfully"><failure message="&#10;Expected: is &quot;laura&quot;&#10;     but: was &quot;jenny&quot;" type="java.lang.AssertionError">
+Expected: is "laura"
+     but: was "jenny"</failure><system-err>
+Expected: is "laura"
+     but: was "jenny"&#13;
+io.swagger.petstore.testing.steps.GetUserStep.validateResponseFirstname(GetUserStep.java:31)&#13;
+io.swagger.petstore.testing.stepdefinitions.GetUserStepDefinition.validateInformation(GetUserStepDefinition.java:20)&#13;
+✽.validate information(src/test/resources/io.swagger.petstore.testing.features/get_user.feature:14)&#13;
+</system-err></testcase></testsuite>

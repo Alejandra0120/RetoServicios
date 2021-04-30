@@ -1,0 +1,16 @@
+io/swagger/petstore/testing/utils/InternetConnection.java
+ io.swagger.petstore.testing.utils.InternetConnection
+io/swagger/petstore/testing/utils/URLSwagger.java
+ io.swagger.petstore.testing.utils.URLSwagger
+io/swagger/petstore/testing/steps/CreateUserStep.java
+ io.swagger.petstore.testing.steps.CreateUserStep
+io/swagger/petstore/testing/models/UserModel.java
+ io.swagger.petstore.testing.models.UserModel
+io/swagger/petstore/testing/steps/GetUserStep.java
+ io.swagger.petstore.testing.steps.GetUserStep
+io/swagger/petstore/testing/utils/UserEnum.java
+ io.swagger.petstore.testing.utils.UserEnum
+io/swagger/petstore/testing/steps/DeleteUserStep.java
+ io.swagger.petstore.testing.steps.DeleteUserStep
+io/swagger/petstore/testing/steps/UpdateUserStep.java
+ io.swagger.petstore.testing.steps.UpdateUserStep

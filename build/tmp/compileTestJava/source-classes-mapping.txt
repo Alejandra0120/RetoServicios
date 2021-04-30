@@ -1,0 +1,16 @@
+io/swagger/petstore/testing/runners/GetUserRunner.java
+ io.swagger.petstore.testing.runners.GetUserRunner
+io/swagger/petstore/testing/runners/CreateUserRunner.java
+ io.swagger.petstore.testing.runners.CreateUserRunner
+io/swagger/petstore/testing/runners/UpdateUserRunner.java
+ io.swagger.petstore.testing.runners.UpdateUserRunner
+io/swagger/petstore/testing/runners/DeleteUserRunner.java
+ io.swagger.petstore.testing.runners.DeleteUserRunner
+io/swagger/petstore/testing/stepdefinitions/CreateUserStepDefinition.java
+ io.swagger.petstore.testing.stepdefinitions.CreateUserStepDefinition
+io/swagger/petstore/testing/stepdefinitions/UpdateUserStepDefinition.java
+ io.swagger.petstore.testing.stepdefinitions.UpdateUserStepDefinition
+io/swagger/petstore/testing/stepdefinitions/DeleteUserStepDefinition.java
+ io.swagger.petstore.testing.stepdefinitions.DeleteUserStepDefinition
+io/swagger/petstore/testing/stepdefinitions/GetUserStepDefinition.java
+ io.swagger.petstore.testing.stepdefinitions.GetUserStepDefinition
