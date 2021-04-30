@@ -2,11 +2,11 @@ package io.swagger.petstore.testing.utils;
 
 public enum UserEnum {
 
-    FIRSTNAME_USER("laura"),
-    LASTNAME_USER("barbosa"),
-    EMAIL_USER("abarbosa@pruebas.com"),
-    FIRSTNAME_UPDATE_USER("laura"),
-    USERNAME("abarbosa1");
+    FIRSTNAME_USER("Laura"),
+    LASTNAME_USER("Pardo"),
+    EMAIL_USER("apardo@pruebas.com"),
+    FIRSTNAME_UPDATE_USER("Maria"),
+    USERNAME("apardo");
 
     private String value;
     public String getValue() {

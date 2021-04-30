@@ -39,7 +39,7 @@ public class UpdateUserStep {
     @Step
     public void validateResponseFirstnameUpdated(){
         String firstname = response.body().jsonPath().get("firstName");
-        Assert.assertThat(FIRSTNAME_USER.getValue(), Matchers.is(firstname));
+        Assert.assertThat(FIRSTNAME_UPDATE_USER.getValue(), Matchers.is(firstname));
         System.out.println(firstname);
 
     }
